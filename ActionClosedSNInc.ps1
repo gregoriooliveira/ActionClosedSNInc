@@ -4,17 +4,17 @@
 #   Function        Invoke-SolarwindsCommand                                  #
 #                                                                             #
 #   Description     Funcao para executar comando remotamente atravs do        #
-#					Invoke-PsExec, essa funcao sera chamada via Alerts 		              #
-#					do Solarwinds.						                                          #
+#		    Invoke-PsExec, essa funcao sera chamada via Alerts 	      #
+#		    do Solarwinds.			                      #
 #                                                                             #
-#   Notes:          Versao 1.0 												                        #
-#                   Criado por: Gregorio Oliveira							                #
-#                   						                                              #
+#   Notes:          Versao 1.0 	     					      #
+#                   Criado por: Gregorio Oliveira  			      #
+#                   				                              #
 #                                                                             #
 #   History                                                                   #
-#    2019-10-01 Gregorio Oliveira Criacao.				                            #
+#    2019-10-01 Gregorio Oliveira Criacao		                      #
 #    2019-12-17 Gregorio Oliveira Inclusao de Query para Update da tabela     #
-#				do Service Now no Solarinwds                                          #
+#				do Service Now no Solarinwds                  #
 #-----------------------------------------------------------------------------#
 
 <#
